@@ -1,0 +1,17 @@
+h3 {
+  font-size: 15px;
+}
+
+.poster {
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  margin: 5px;
+  transition: transform 0.2s;
+  cursor: pointer;
+  /* height: 100px;
+    width: 100%; */
+}
+
+.poster:hover {
+  transform: scale(1.05);
+}
