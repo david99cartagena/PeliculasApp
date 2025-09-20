@@ -14,7 +14,7 @@ Este proyecto fue creado con el objetivo de reforzar conceptos clave de Angular 
 
 ## 📸 Demo
 
-🔗 **Visita la demo en línea:** [Películas App en Netlify](#) _(pendiente si la publicas)_
+🔗 **Visita la demo en línea:** [Películas App en Netlify](https://comforting-lily-4866d0.netlify.app/home)
 
 - **Inicio (Cartelera de películas actuales)**  
   ![Home Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot1.png)
