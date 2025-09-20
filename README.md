@@ -17,17 +17,17 @@ Este proyecto fue creado con el objetivo de reforzar conceptos clave de Angular 
 🔗 **Visita la demo en línea:** [Películas App en Netlify](#) _(pendiente si la publicas)_
 
 - **Inicio (Cartelera de películas actuales)**  
-  ![Home Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot_1.png)
+  ![Home Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot1.png)
 
-  ![Home Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot_2.png)
+  ![Home Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot2.png)
 
 - **Búsqueda de películas**  
-  ![Search Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot_3.png)
+  ![Search Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot3.png)
 
 - **Detalle de película con reparto**  
-  ![Detalle Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot_4.png)
+  ![Detalle Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot4.png)
 
-  ![Detalle Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot_5.png)
+  ![Detalle Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot5.png)
 
 ---
 
