@@ -17,13 +17,17 @@ Este proyecto fue creado con el objetivo de reforzar conceptos clave de Angular 
 🔗 **Visita la demo en línea:** [Películas App en Netlify](#) _(pendiente si la publicas)_
 
 - **Inicio (Cartelera de películas actuales)**  
-  ![Home Screenshot](./media/home.png)
+  ![Home Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot_1.png)
 
-- **Detalle de película con reparto**  
-  ![Detalle Screenshot](./media/detail.png)
+  ![Home Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot_2.png)
 
 - **Búsqueda de películas**  
-  ![Search Screenshot](./media/search.png)
+  ![Search Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot_3.png)
+
+- **Detalle de película con reparto**  
+  ![Detalle Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot_4.png)
+
+  ![Detalle Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot_5.png)
 
 ---
 
