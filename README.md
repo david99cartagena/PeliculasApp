@@ -10,8 +10,6 @@ Este proyecto fue creado con el objetivo de reforzar conceptos clave de Angular 
 - Observables y RxJS
 - Enrutamiento con parámetros dinámicos
 
----
-
 ## 📸 Demo
 
 🔗 **Visita la demo en línea:** [Películas App en Netlify](https://comforting-lily-4866d0.netlify.app/home)
@@ -29,8 +27,6 @@ Este proyecto fue creado con el objetivo de reforzar conceptos clave de Angular 
 
   ![Detalle Screenshot](https://raw.githubusercontent.com/david99cartagena/PeliculasApp/refs/heads/main/media/Screenshot5.png)
 
----
-
 ## 🚀 Tecnologías Utilizadas
 
 - **Angular 16**
@@ -41,40 +37,38 @@ Este proyecto fue creado con el objetivo de reforzar conceptos clave de Angular 
 - **Bootstrap / CSS3**
 - **TMDb API**
 
----
-
 ## 📁 Estructura del Proyecto
 
 ```
 src/
 ├── app/
-│ ├── app-routing.module.ts  # Configuración de rutas
-│ ├── app.component.*        # Componente raíz
-│ ├── app.module.ts          # Módulo principal
+│ ├── app-routing.module.ts     # Configuración de rutas
+│ ├── app.component.*           # Componente raíz
+│ ├── app.module.ts             # Módulo principal
 │ ├── components/               # Componentes reutilizables
 │ │ ├── cast-slideshow/         # Carrusel de actores/reparto
 │ │ ├── navbar/                 # Barra de navegación
 │ │ ├── peliculas-poster-grid/  # Grid con posters de películas
 │ │ ├── slideshow/              # Carrusel de películas destacadas
 │ │ └── components.module.ts
-│ ├── interfaces/              # Interfaces TypeScript
-│ │ ├── cartelera-response.ts  # Respuesta de cartelera
-│ │ ├── credits-response.ts    # Reparto de la película
-│ │ └── movie-response.ts      # Detalles de película
-│ ├── pages/      # Páginas principales
-│ │ ├── home/     # Página principal con cartelera
-│ │ ├── buscar/   # Página de búsqueda de películas
-│ │ ├── pelicula/ # Página de detalle de película
+│ ├── interfaces/               # Interfaces TypeScript
+│ │ ├── cartelera-response.ts   # Respuesta de cartelera
+│ │ ├── credits-response.ts     # Reparto de la película
+│ │ └── movie-response.ts       # Detalles de película
+│ ├── pages/                    # Páginas principales
+│ │ ├── home/                   # Página principal con cartelera
+│ │ ├── buscar/                 # Página de búsqueda de películas
+│ │ ├── pelicula/               # Página de detalle de película
 │ │ └── pages.module.ts
-│ ├── pipes/           # Pipes personalizados
-│ │ ├── poster.pipe.ts # Pipe para manejar posters nulos
+│ ├── pipes/                    # Pipes personalizados
+│ │ ├── poster.pipe.ts          # Pipe para manejar posters nulos
 │ │ ├── poster.pipe.spec.ts
 │ │ └── pipes.module.ts
-│ ├── services/                # Servicios
-│ │ ├── peliculas.service.ts   # Lógica de conexión con TMDb
+│ ├── services/                 # Servicios
+│ │ ├── peliculas.service.ts    # Lógica de conexión con TMDb
 │ │ └── peliculas.service.spec.ts
 ├── assets/
-│ ├── no-image.jpg             # Imagen por defecto
+│ ├── no-image.jpg              # Imagen por defecto
 │ └── .gitkeep
 ├── favicon.ico
 ├── index.html
@@ -82,8 +76,6 @@ src/
 ├── styles.css
 └── _redirects
 ```
-
----
 
 ## 🔑 Funcionalidades
 
@@ -94,8 +86,6 @@ src/
 ✅ Carrusel de películas destacadas  
 ✅ Calificación de películas con estrellas  
 ✅ Imagen por defecto cuando no hay poster disponible
-
----
 
 ## 📦 Instalación
 
@@ -149,3 +139,5 @@ private apiKey = 'TU_API_KEY';
 - Creación de pipes personalizados
 - Manejo de rutas dinámicas (/pelicula/:id)
 - Manejo de errores y loaders en peticiones HTTP
+
+Basado en el curso de **Fernando Herrera** – [Angular: De Cero a Experto (Edición 2018)](https://www.udemy.com/course/angular-2-fernando-herrera/)
