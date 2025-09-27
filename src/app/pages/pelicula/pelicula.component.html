@@ -1,9 +1,12 @@
-<div class="row animate__animated animate__fadeIn animate__faster" *ngIf="pelicula">
+<div
+  class="row animate__animated animate__fadeIn animate__faster"
+  *ngIf="pelicula"
+>
   <div class="col-md-6">
     <img
       [src]="pelicula.poster_path | poster"
       [alt]="pelicula.title"
-      class="img-thumbnail"
+      class="img-thumbnail poster-clickable"
     />
   </div>
   <div class="col-md-6">
